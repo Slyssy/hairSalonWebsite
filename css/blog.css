@@ -327,6 +327,12 @@ html {
     height: auto;
   }
 
+  h1 {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 28px;
+  }
+
   header {
     height: 200px;
   }
@@ -353,6 +359,7 @@ html {
   .modal {
     height: 95%;
   }
+
   .modal h1 {
     font-size: 1.6em;
   }
@@ -455,9 +462,14 @@ html {
     /* width: 30%; */
   }
 
+  h1 {
+    font-size: 38px;
+  }
+
   h2 {
     font-size: 34px;
   }
+
   .blog-image {
     width: 90%;
   }
