@@ -372,8 +372,6 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    max-width: 800px;
-    height: 90vh;
   }
 
   .modal-image {
@@ -476,16 +474,6 @@ html {
 
   .blog-image-link {
     width: 100%;
-  }
-
-  .modal-container {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    height: 80vh;
-    width: 70vw;
-    max-width: 1100px;
-    min-width: 930px;
   }
 
   .modal-image {
